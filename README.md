@@ -2,7 +2,7 @@
 An end-to-end data analysis project evaluating sales trends, customer purchasing behaviors, peak demand windows, and product performance using Power Query, Microsoft Excel, and Power BI.
 
 # Introduction
-Project Overview
+
 This project presents an end-to-end data analytics and business intelligence study evaluating $329K in transactional sales across 9,000 orders for a quick-service pizza business. Operating within a fast-casual dining framework where speed, menu efficiency, and high throughput drive success, this study analyzes historical point-of-sale (POS) data to uncover revenue drivers, evaluate customer basket economics, map temporal demand patterns, and provide actionable business recommendations.
 
 # Business Problem
